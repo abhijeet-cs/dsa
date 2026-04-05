@@ -1,0 +1,23 @@
+Pattern 1: Sliding window
+Pattern 2: Prefix sum
+Pattern 3: Next greater/smaller (Monotonic Stack)
+Pattern 4: Top K
+Pattern 5: Fast and Slow Pointers
+Pattern 6: Overlapping Intervals
+Pattern 7: Modified Binary Search
+Pattern 8: Binary Tree Traversal
+Pattern 9: Depth First Search
+Pattern 10: Breadth First Search
+Pattern 11: Backtracking
+Pattern 12: Dynamic Programming
+ - Fibonacci Numbers
+ - Knapsack
+ - LCS
+ - LIS
+ - MCM
+ - Subset sum
+Pattern 13: Matrix Traversal
+Pattern 14: Hashing
+Pattern 15: Graphs
+ - Topological sort
+ - Cycle detection
