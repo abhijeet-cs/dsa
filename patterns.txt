@@ -21,3 +21,4 @@ Pattern 14: Hashing
 Pattern 15: Graphs
  - Topological sort
  - Cycle detection
+Pattern 16: 2 pointers
