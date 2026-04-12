@@ -2,7 +2,7 @@
 Pattern: DP on 2D with fixed start and end
 Problem: https://leetcode.com/problems/unique-paths/
 */
-class Solution {
+class Solution { 
     public int uniquePaths(int m, int n) {
         int[][] dp = new int[m][n];
         for (int row = 0; row < m; row++) Arrays.fill(dp[row], -1);
