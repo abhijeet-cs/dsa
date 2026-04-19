@@ -1,5 +1,6 @@
 /*
 Problem: https://leetcode.com/problems/palindromic-substrings/?envType=problem-list-v2&envId=oizxjoit
+Trick: Cannot use sliding window since condition is not define. Think of building solution ground up
 */
 class Solution {
     public int countSubstrings(String s) {
