@@ -4,7 +4,7 @@ public class BS {
         while (l <= r) {
             int m = (l + r) >>> 1;
             if (a[m] == t) return m;
-            if (a[m] > t) r = m;
+            if (a[m] > t) r = m - 1;
             else l = m + 1;
         }
         return -1;
