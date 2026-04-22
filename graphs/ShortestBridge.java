@@ -18,7 +18,6 @@ class Solution {
         }
     }
     public int shortestBridge(int[][] grid) {
-
         int m = grid.length;
         int n = grid[0].length;
         int ans = Integer.MAX_VALUE;
@@ -29,7 +28,6 @@ class Solution {
                     dfs(grid, i, j, q);
                     while (!q.isEmpty()) {
                         int[] cell = q.poll();
-
                         for (int k = 0; k < 4; k++) {
                             int ix = cell[0] + dx[k];
                             int jy = cell[1] + dy[k];
